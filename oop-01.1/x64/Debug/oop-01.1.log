@@ -1,0 +1,13 @@
+﻿  oop-01.1.cpp
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(9,5): error C2065: Money: необъявленный идентификатор
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(9,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "wallet1"
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(9,11): error C2065: wallet1: необъявленный идентификатор
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(9,21): error C3861: makeMoney: идентификатор не найден
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(10,5): error C2065: wallet1: необъявленный идентификатор
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(11,46): error C2065: wallet1: необъявленный идентификатор
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(15,5): error C2065: Money: необъявленный идентификатор
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(15,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "wallet2"
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(15,11): error C2065: wallet2: необъявленный идентификатор
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(16,5): error C2065: wallet2: необъявленный идентификатор
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(17,5): error C2065: wallet2: необъявленный идентификатор
+D:\VisualStudio\Проекти\oop-01.1\oop-01.1\oop-01.1.cpp(18,46): error C2065: wallet2: необъявленный идентификатор
