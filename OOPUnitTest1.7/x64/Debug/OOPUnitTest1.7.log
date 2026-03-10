@@ -1,0 +1,57 @@
+﻿  OOPUnitTest1.7.cpp
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(39,18): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(40,18): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(41,18): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(42,17): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(43,17): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(44,17): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(45,16): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(46,16): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(47,16): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(48,17): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(49,17): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(50,17): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(51,16): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(52,16): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(53,10): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(113,60): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Money.cpp(119,60): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+D:\VisualStudio\Проекти\oop-01.7\oop-01.7\Bankomat.cpp(81,34): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "/OOPUnitTest1.7.cpp")
+  
+     Создается библиотека D:\VisualStudio\Проекти\oop-01.7\x64\Debug\OOPUnitTest1.7.lib и объект D:\VisualStudio\Проекти\oop-01.7\x64\Debug\OOPUnitTest1.7.exp
+  OOPUnitTest1.7.vcxproj -> D:\VisualStudio\Проекти\oop-01.7\x64\Debug\OOPUnitTest1.7.dll
